@@ -1,0 +1,37 @@
+@import "https://fonts.googleapis.com/css?family=Verdana|Open+Sans";
+body {
+    font-family: "Open Sans", sans-serif;
+    background-color: grey;
+    margin: 0;
+    padding: 0
+}
+
+h1 {
+    font-family: "Verdana", serif;
+    color: dark darkolivegreen;
+    text-align: center
+}
+
+h2 {
+    font-family: "Opens Sans";
+    color: green;
+    text-align: center;
+}
+
+form {
+    background-color: grey;
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+    padding: 2rem
+}
+
+form input:last-child {
+    margin-top: 2rem;
+    background-color: darkgray;
+    border: none;
+    font-size: 0.75rem;
+    color: #34495e;
+    font-weight: bold;
+    padding: 0.5rem 0.95rem
+}
