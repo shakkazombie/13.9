@@ -1,0 +1,18 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    background-color: grey;
+    margin: 0;
+    padding: 0
+}
+
+h1 {
+    font-family: "Verdana", serif;
+    color: #f39c12;
+    text-align: center
+}
+
+h2 {
+    font-family: "Opens Sans";
+    color: green;
+    text-align: center;
+}
